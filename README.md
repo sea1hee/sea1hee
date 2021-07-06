@@ -24,4 +24,4 @@ AAC, Material Design, Realm, Dagger2, Hilt, RxKotlin, Coroutine 등에 관심이
 
 
 # 🌳
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sea1hee)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sea1hee&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
