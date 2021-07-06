@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there, I'm sehee ~ 👋
 
-<!--
-**sea1hee/sea1hee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@sea1hee)](https://velog.io/@sea1hee)
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sea11hee@gmail.com)](mailto:sea11hee@gmail.com)
+	
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🍀 
+Kotlin, Java를 사용하여 Android 개발을 합니다.  
+
+# 🌱
+AAC, Material Design, Realm, Dagger2, Hilt, RxKotlin, Couroutine 등에 관심이 있고 공부 중입니다.  
+  
+  
+  
+## 🌵 개인(개발중)
+[![lets_start](https://github-readme-stats.vercel.app/api/pin/?username=sea1hee&repo=lets_start)](https://github.com/sea1hee/lets_start)
+[![kidscafe](https://github-readme-stats.vercel.app/api/pin/?username=sea1hee&repo=kidscafe)](https://github.com/sea1hee/kidscafe)
+
+## 🪴 팀(개발중)
+[![Woholi](https://github-readme-stats.vercel.app/api/pin/?username=sea1hee&repo=kidscafe)](https://github.com/sea1hee/kidscafe)
+
+
+
+
+# 🌳
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sea1hee)](https://github.com/anuraghazra/github-readme-stats)
