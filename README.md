@@ -9,7 +9,7 @@
 Kotlin, Java를 사용하여 Android 개발을 합니다.  
 
 # 🌱
-AAC, Material Design, Realm, Dagger2, Hilt, RxKotlin, Couroutine 등에 관심이 있고 공부 중입니다.  
+AAC, Material Design, Realm, Dagger2, Hilt, RxKotlin, Coroutine 등에 관심이 있고 공부 중입니다.  
   
   
   
