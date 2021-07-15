@@ -15,7 +15,6 @@ AAC, Material Design, Realm, Dagger2, Hilt, RxKotlin, Coroutine 등에 관심이
   
 ## 🌵 개인(개발중)
 [![lets_start](https://github-readme-stats.vercel.app/api/pin/?username=sea1hee&repo=lets_start)](https://github.com/sea1hee/lets_start)
-[![kidscafe](https://github-readme-stats.vercel.app/api/pin/?username=sea1hee&repo=kidscafe)](https://github.com/sea1hee/kidscafe)
 
 ## 🪴 팀(개발중)
 [![Woholi](https://github-readme-stats.vercel.app/api/pin/?username=sea1hee&repo=Woholi)](https://github.com/sea1hee/Woholi)
