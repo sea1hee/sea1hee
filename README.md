@@ -1,10 +1,5 @@
 ### Hi there, I'm sehee ~ 👋
 
-
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@sea1hee)](https://velog.io/@sea1hee)
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sea11hee@gmail.com)](mailto:sea11hee@gmail.com)
-	
-
 # 🍀 
 Kotlin, Java를 사용하여 Android 개발을 합니다.  
   
