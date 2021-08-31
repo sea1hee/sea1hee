@@ -12,7 +12,6 @@ Kotlin, Java를 사용하여 Android 개발을 합니다.
 
 ## 🪴 팀(개발중)
 [![Woholi](https://github-readme-stats.vercel.app/api/pin/?username=sea1hee&repo=Woholi)](https://github.com/sea1hee/Woholi)
-[![TopGoal](https://github-readme-stats.vercel.app/api/pin/?username=sea1hee&repo=TopGoal)](https://github.com/sea1hee/TopGoal)
 
 
 
