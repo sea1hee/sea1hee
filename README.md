@@ -2,18 +2,6 @@
 
 # 🍀 
 Kotlin, Java를 사용하여 Android 개발을 합니다.  
-  
-  
-  
-     
-     
-## 🌵 개인(개발중)
-[![lets_start](https://github-readme-stats.vercel.app/api/pin/?username=sea1hee&repo=lets_start)](https://github.com/sea1hee/lets_start)
-
-## 🪴 팀(개발중)
-[![Woholi](https://github-readme-stats.vercel.app/api/pin/?username=sea1hee&repo=Woholi)](https://github.com/sea1hee/Woholi)
-
-
 
 
 # 🌳
